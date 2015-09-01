@@ -4,7 +4,7 @@ UI
 
 Image
 ======================
-* **glide(recommended)** [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
+* **glide`(recommended)`** [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 
 Network
 ======================
