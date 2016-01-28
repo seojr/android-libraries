@@ -24,3 +24,6 @@ SQLite Viewer
 ======================
 * **SQLite Viewer** [http://www.sqliteviewer.org/database/android/] (http://www.sqliteviewer.org/database/android/)
 
+Reactive Extensions for Android
+======================
+ * **RxAndroid** [https://github.com/ReactiveX/RxAndroid] (https://github.com/ReactiveX/RxAndroid)
