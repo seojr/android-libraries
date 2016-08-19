@@ -9,6 +9,7 @@ Image
 
 Network
 ======================
+* **Retrofit** [http://square.github.io/retrofit/] (http://square.github.io/retrofit/)
 * **Volley**
 
 Json Parser
@@ -18,6 +19,7 @@ Json Parser
 Database
 ======================
 * **Realm `(recommended)`** [https://github.com/realm/realm-java] (https://github.com/realm/realm-java)
+* **SQLCipher** [https://www.zetetic.net/sqlcipher/] (https://www.zetetic.net/sqlcipher/)
 
 
 SQLite Viewer
